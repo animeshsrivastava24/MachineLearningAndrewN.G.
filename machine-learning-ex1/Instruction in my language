@@ -1,0 +1,17 @@
+See we have different kind of file containing functions
+
+        --------- |     ----- | --------
+==                            Warm-up Exercise |  10 /  10 | Nice work!
+==           Computing Cost (for One Variable) |   0 /  40 | 
+==         Gradient Descent (for One Variable) |   0 /  50 | 
+==                       Feature Normalization |   0 /   0 | 
+==     Computing Cost (for Multiple Variables) |   0 /   0 | 
+==   Gradient Descent (for Multiple Variables) |   0 /   0 | 
+==                            Normal Equations |   0 /   0 | 
+
+These are the files
+
+All these file's functions that are defined are utlised in a single file ex1.m
+So,we have to go to each file define the function
+Now,we have to run ex1 to see whether our program works or not
+Then submit
